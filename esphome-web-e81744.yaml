@@ -42,7 +42,7 @@ sensor:
     pm_10_0:
       id: pm10
       name: "Particulate Matter <10.0µm Concentration"
-    update_interval: 30s
+    update_interval: 120s
 
 font:
   - file: "gfonts://Roboto"
